@@ -72,5 +72,5 @@ def main():
                 st.warning("Please upload an audio file.")
 
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
